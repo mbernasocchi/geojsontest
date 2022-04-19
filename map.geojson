@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Isa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.584930419921875,
+          46.53784584273749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Fabian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.174514770507812,
+          46.73091909829101
+        ]
+      }
+    }
+  ]
+}
