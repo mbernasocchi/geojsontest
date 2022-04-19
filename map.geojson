@@ -28,6 +28,20 @@
           46.73091909829101
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.870231628417968,
+          46.176740016433456
+        ]
+      }
     }
   ]
 }
