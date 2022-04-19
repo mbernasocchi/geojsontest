@@ -42,6 +42,20 @@
           46.176740016433456
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Lucie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.708269119262695,
+          46.6925479434879
+        ]
+      }
     }
   ]
 }
